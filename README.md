@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohit-Kumar-Gupta-19
 - 👀 I’m interested in ...Travelling 
-- 🌱 I’m currently learning ...FRONTEND
+- 🌱 I’m currently learning ...FRONTEND & BACKEND
 - 💞️ I’m looking to collaborate on ...coding
 - 📫 How to reach me ...mohitguptakr45@gmail.com
 
